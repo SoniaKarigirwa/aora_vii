@@ -92,7 +92,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/aora.git
+git clone 
 cd aora
 ```
 **Installation**
@@ -100,7 +100,7 @@ cd aora
 Install the project dependencies using npm:
 
 ```bash
-npm install
+npm instal<url>
 ```
 
 **Running the Project**
